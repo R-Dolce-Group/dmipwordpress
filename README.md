@@ -1,0 +1,2 @@
+# dmipwordpress
+DMIP Azure + Wordpress
